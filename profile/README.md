@@ -13,7 +13,3 @@ $100K – $200K • Offers Equity
 [Senior Devops Engineer](https://jobs.ashbyhq.com/nomic.ai)
 • Technical Staff • New York HQ • Full time
 $100K – $180K • Offers Equity
-
-[Senior Software Engineer](https://jobs.ashbyhq.com/nomic.ai)
-• Technical Staff • New York HQ • Full time
-$100K – $200K • Offers Equity
