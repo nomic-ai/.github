@@ -5,11 +5,3 @@ At Nomic, we build tools that enable everyone to interact with AI scale datasets
 
 ### Jobs :computer:
 We're always hiring talent - apply to build with us at https://nomic.ai/careers.
-
-
-[Front End/Web Engineer](https://jobs.ashbyhq.com/nomic.ai) • Technical Staff • New York HQ • Full time
-$100K – $200K • Offers Equity
-
-[Senior Devops Engineer](https://jobs.ashbyhq.com/nomic.ai)
-• Technical Staff • New York HQ • Full time
-$100K – $180K • Offers Equity
