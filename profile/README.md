@@ -5,3 +5,5 @@ At Nomic, we build tools that enable everyone to interact with AI scale datasets
 
 ### Jobs :computer:
 We're always hiring talent - apply to build with us at https://nomic.ai/careers.
+
+Try the Nomic Platform: https://atlas.nomic.ai
